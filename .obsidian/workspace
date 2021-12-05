@@ -1,0 +1,94 @@
+{
+  "main": {
+    "id": "7c66d7ada41a3bf7",
+    "type": "split",
+    "children": [
+      {
+        "id": "5445dbebe46ec6bf",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "f62757043bcc4371",
+    "type": "split",
+    "children": [
+      {
+        "id": "9a689110f131815f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "91cf00aa2143135d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "f736c35fa16fdeaa",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "5c89db7634cd735f",
+    "type": "split",
+    "children": [
+      {
+        "id": "9b55ec3732c60a06",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d071f7f451e6f68f",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "5445dbebe46ec6bf",
+  "lastOpenFiles": [
+    "README.md",
+    "Lucien Snow.md",
+    "Resources/PDFs/Lucien Snow.pdf",
+    "Resources/Images/Lucien Snow.png",
+    "Lucien Adarbrent.md"
+  ]
+}
